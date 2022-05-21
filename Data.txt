@@ -1,0 +1,10 @@
+T = [
+{“id”:0,“factory”:”AAA factory”,“teaType”: “Black Tea”,“details”:”AAA Black”}, 
+{“id”:1,“factory”:”BBB  factory”,“teaType”: “Green Tea",“details”:”BBB Green”},
+{“id”:2,“factory”:”CCC  factory”,“teaType”: “Oolong”,“details”:”CCC Oolong”},
+{“id”:3,“factory”:”CCC  factory”,“teaType”: “Black Tea”,“details”:”CCC Black”},
+{“id”:4,“factory”:”AAA factory”,“teaType”: “Green Tea”,“details”:”AAA Green”},
+{“id”:5,“factory”:”DDD  factory”,“teaType”: “Green Tea”,“details”:”DDD Green”},
+{“id”:6,“factory”:”BBB factory”,“teaType”: “Oolong”,“details”:”BBB Oolong”},
+{“id”:7,“factory”:”CCC  factory”,“teaType”: “Black Tea”,“details”:”CCC Green”}
+]
