@@ -1,0 +1,13 @@
+
+
+.initcard {
+   -webkit-filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.7));
+
+   filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.7)),;
+   /* height: 100px */
+}
+
+.details{
+   color: white;
+}
+
